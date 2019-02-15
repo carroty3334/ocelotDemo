@@ -1,0 +1,33 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [{
+          "Host": "localhost",
+          "Port": 9003
+        }],
+      "UpstreamPathTemplate": "/demo1/api/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/v1/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [{
+          "Host": "localhost",
+          "Port": 9002
+        }],
+      "UpstreamPathTemplate": "/demo2/api/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin"
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+
+  }
+}

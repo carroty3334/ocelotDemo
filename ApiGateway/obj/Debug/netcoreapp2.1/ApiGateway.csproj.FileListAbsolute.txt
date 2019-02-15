@@ -1,0 +1,15 @@
+E:\Code\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.deps.json
+E:\Code\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.json
+E:\Code\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.dev.json
+E:\Code\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.dll
+E:\Code\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.pdb
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csprojAssemblyReference.cache
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csproj.CoreCompileInputs.cache
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cache
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cs
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfoInputs.cache
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfo.cs
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorTargetAssemblyInfo.cache
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.dll
+E:\Code\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.pdb
+E:\Code\ApiGateway\bin\Debug\netcoreapp2.1\OcelotConfig.json

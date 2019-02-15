@@ -1,0 +1,14 @@
+E:\Code\Docker_JWT\bin\Debug\netcoreapp2.1\Docker_JWT.deps.json
+E:\Code\Docker_JWT\bin\Debug\netcoreapp2.1\Docker_JWT.runtimeconfig.json
+E:\Code\Docker_JWT\bin\Debug\netcoreapp2.1\Docker_JWT.runtimeconfig.dev.json
+E:\Code\Docker_JWT\bin\Debug\netcoreapp2.1\Docker_JWT.dll
+E:\Code\Docker_JWT\bin\Debug\netcoreapp2.1\Docker_JWT.pdb
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.csprojAssemblyReference.cache
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.csproj.CoreCompileInputs.cache
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.RazorAssemblyInfo.cache
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.RazorAssemblyInfo.cs
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.AssemblyInfoInputs.cache
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.AssemblyInfo.cs
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.RazorTargetAssemblyInfo.cache
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.dll
+E:\Code\Docker_JWT\obj\Debug\netcoreapp2.1\Docker_JWT.pdb
