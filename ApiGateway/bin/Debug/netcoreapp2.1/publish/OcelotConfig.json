@@ -4,8 +4,8 @@
       "DownstreamPathTemplate": "/api/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [{
-          "Host": "localhost",
-          "Port": 9003
+          "Host": "192.168.30.247",
+          "Port": 56661
         }],
       "UpstreamPathTemplate": "/demo1/api/{everything}",
       "UpstreamHttpMethod": [ "Get", "Post" ],
@@ -17,7 +17,7 @@
       "DownstreamPathTemplate": "/v1/api/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [{
-          "Host": "localhost",
+          "Host": "192.168.30.247",
           "Port": 9002
         }],
       "UpstreamPathTemplate": "/demo2/api/{everything}",

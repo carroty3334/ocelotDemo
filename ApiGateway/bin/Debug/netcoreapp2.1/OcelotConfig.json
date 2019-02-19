@@ -4,7 +4,7 @@
       "DownstreamPathTemplate": "/api/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [{
-          "Host": "localhost",
+          "Host": "192.168.30.247",
           "Port": 9003
         }],
       "UpstreamPathTemplate": "/demo1/api/{everything}",
@@ -17,7 +17,7 @@
       "DownstreamPathTemplate": "/v1/api/{everything}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [{
-          "Host": "localhost",
+          "Host": "192.168.30.247",
           "Port": 9002
         }],
       "UpstreamPathTemplate": "/demo2/api/{everything}",

@@ -1,0 +1,14 @@
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.csprojAssemblyReference.cache
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.csproj.CoreCompileInputs.cache
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.RazorAssemblyInfo.cache
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.RazorAssemblyInfo.cs
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.AssemblyInfoInputs.cache
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.AssemblyInfo.cs
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\bin\Debug\netcoreapp2.2\docker_svc2.deps.json
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\bin\Debug\netcoreapp2.2\docker_svc2.runtimeconfig.json
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\bin\Debug\netcoreapp2.2\docker_svc2.runtimeconfig.dev.json
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\bin\Debug\netcoreapp2.2\docker_svc2.dll
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\bin\Debug\netcoreapp2.2\docker_svc2.pdb
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.RazorTargetAssemblyInfo.cache
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.dll
+E:\Code\PersonalProject\OcelotDemo\docker_svc2\obj\Debug\netcoreapp2.2\docker_svc2.pdb

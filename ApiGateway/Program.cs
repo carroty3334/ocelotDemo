@@ -29,10 +29,9 @@ namespace ApiGateway
                         .AddJsonFile("OcelotConfig.json")
                         .AddEnvironmentVariables();
                 })
-                //.UseUrls("http://localhost:1000")
                 .UseStartup<Startup>().UseKestrel(options =>
                 {
-                    options.Listen(IPAddress.Parse("0.0.0.0"), 1000, listenOptions =>
+                    options.Listen(IPAddress.Parse("0.0.0.0"), 9001, listenOptions =>
                     {
                         
                     });
